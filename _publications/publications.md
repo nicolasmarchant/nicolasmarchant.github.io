@@ -20,3 +20,19 @@ Ramos, D., Moreno, S., Canessa, E., Chaigneau, S. E., & **Marchant, N.** (2023).
 **Marchant, N.**, & Chaigneau, S. E. (2022). Computational Cognitive models of Categorization: Predictions under conditions of classification uncertainty. *Psykhe*. DOI: [10.7764/psykhe.2021.37971](https://ojs.uc.cl/index.php/psykhe/article/view/37971){:target="_blank"}
 
 **Marchant, N.**, Canessa, E., & Chaigneau, S. E. (2022). An Adaptive Linear Filter model of procedural category learning. *Cognitive Processing*. DOI: [10.1007/s10339-022-01094-1](https://link.springer.com/article/10.1007/s10339-022-01094-1){:target="_blank"}
+
+## CogSci Proceedings
+
+**Marchant, N.**, Quillien, T., & Chaigneau, S. E. (2023). Uncertainty can explain apparent mistakes in causal reasoning. *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*. URL: [escholarship.org/uc/item/6j55z9dd](https://escholarship.org/uc/item/6j55z9dd){:target="_blank"}
+
+**Marchant, N.**, Zhao, B., Bramley, N. R., Morales, D., & Chaigneau, S. E. (2022). Categorizing perceived causal events. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. URL: [escholarship.org/uc/item/0gj4r0k2](https://escholarship.org/uc/item/0gj4r0k2){:target="_blank"}
+
+**Marchant, N.**, & Chaigneau, S. E. (2021). Designing probabilistic category learning experiments: The probabilistic prototype distortion task. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society*. URL: [escholarship.org/uc/item/0cs145c6](https://escholarship.org/uc/item/0cs145c6){:target="_blank"}
+
+**Marchant, N.**, & Chaigneau, S. E. (2020). Modulating coherence effect in causal-based processing. *Proceedings of the 42nd Annual Conference of the Cognitive Science Society*.
+
+## Book chapters
+
+**Marchant, N.**, Canessa, E., & Chaigneau, S. E. (2023).Challenges from Probabilistic Learning for Models of Brain and Behavior. In: Veloz, T., Khrennikov, A., Toni, B., Castillo, R.D. (eds) Trends and Challenges in Cognitive Modeling. *STEAM-H: Science, Technology, Engineering, Agriculture, Mathematics & Health*. Springer, Cham. DOI: [10.1007/978-3-031-41862-46](https://link.springer.com/chapter/10.1007/978-3-031-41862-4_6){:target="_blank"}
+
+Canessa, E., Chaigneau, S. E., & **Marchant, N.** (2023). Use of Agent-Based Modeling (ABM) in Psychological Research. In: Veloz, T., Khrennikov, A., Toni, B., Castillo, R.D. (eds) Trends and Challenges in Cognitive Modeling. *STEAM-H: Science, Technology, Engineering, Agriculture, Mathematics & Health*. Springer, Cham. DOI: [10.1007/978-3-031-41862-42](https://link.springer.com/chapter/10.1007/978-3-031-41862-4_2){:target="_blank"}
