@@ -5,7 +5,7 @@ permalink: /teaching/
 published: true
 ---
 
-Besides research, I love teaching. I teach different introductory courses in cognitive psychology and neuroscience at the Universidad Adolfo Ibáñez and the Universidad del Desarrollo.
+Besides research, I love teaching. I teach different introductory courses in cognitive psychology and neuroscience at Universidad Adolfo Ibáñez and Universidad del Desarrollo.
 
 ### At Universidad Adolfo Ibáñez:
 
