@@ -13,9 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-researchgate: "#"
-orcid: "0000-0001-6674-4676"
+twitter: "NicoMarchant7"
+researchgate: "Nicolas-Marchant-3"
+orcid: "0000-0001-7891-1005"
 
 
 
