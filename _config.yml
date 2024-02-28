@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Your Name
+title: Nicolás Marchant
 description: subtitle | affiliations | motto
 
 baseurl: "/" #name of GitHub repository
@@ -21,7 +21,6 @@ researchgate: "#"
 orcid: "#"
 quora: "#"
 instagram: "#"
-facebook: "#"
 
 
 # Markdown
