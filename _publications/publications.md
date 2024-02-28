@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: post
 title: Publications
 permalink: /publications/
 published: true
