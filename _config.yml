@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Nicolás Marchant
-description: postdoc | b | c
+description: postdoc | Universidad Adolfo Ibáñez
 
 baseurl: "/" #name of GitHub repository
 url: "https://nicolasmarchant.github.io" #custom url to be used instead of GitHub repository
-email: #
+email: nicolas.marchant@edu.uai.cl
 
 # Pagination
 paginate: 4
