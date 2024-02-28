@@ -53,6 +53,12 @@ collections:
   publications:
     output: true
     permalink: /publications/:name/
+  cv:
+    output: true
+    permalink: /cv/:name/
+  teaching:
+    output: true
+    permalink: /teaching/:name/
 
 sass:
   sass_dir: /assets/css/_sass
